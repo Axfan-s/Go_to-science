@@ -1,0 +1,225 @@
+﻿  main.cpp
+D:\sample\Github_fag\Github_fag\Structures.h(63,25): warning C4566: символ, представленный универсальным именем символа "\u200B", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\Structures.h(66,25): warning C4566: символ, представленный универсальным именем символа "\u200B", невозможно представить в текущей кодовой странице (1251)
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\Structures.h(717,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\Structures.h(775,16): warning C4091: typedef : пропускается слева от "DistIndex", когда ни одна переменная не объявлена
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\Function.h(49,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\Function.h(58,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\Function.h(84,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\LocalSearch.h(22,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SoFA.h(343,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SoFA.h(352,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SoFA.h(354,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SoFA.h(496,14): warning C4101: noize_middle: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SoFA.h(589,14): warning C4101: noize_middle: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SoFA.h(687,14): warning C4101: noize_middle: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SoFA.h(802,14): warning C4101: noize_middle: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SoFA.h(1103,14): warning C4101: noize_middle: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SoFA.h(1208,14): warning C4101: noize_middle: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SoFA.h(1390,14): warning C4101: noize_middle: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(7,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(10,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(11,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(12,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(14,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(17,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(20,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(34,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(35,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(37,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(40,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\DiffEval.h(59,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(145,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(147,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(149,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(169,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(171,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(173,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(197,82): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(199,71): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(213,82): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(215,71): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(234,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(236,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(250,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(252,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(268,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(270,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(285,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(287,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(439,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(439,7): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(439,4): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(1742,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(1740,10): warning C4101: q: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(1861,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(1859,10): warning C4101: q: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(1996,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(1994,10): warning C4101: q: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(2139,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\NewMethods.h(2137,10): warning C4101: q: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SnakeOptimizer.h(60,26): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SnakeOptimizer.h(147,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SnakeOptimizer.h(164,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SnakeOptimizer.h(441,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SnakeOptimizer.h(507,26): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SnakeOptimizer.h(570,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SnakeOptimizer.h(583,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SnakeOptimizer.h(641,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SnakeOptimizer.h(651,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\SnakeOptimizer.h(763,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+D:\sample\Github_fag\Github_fag\matplotlibcpp.h(1813,57): warning C4244: =: преобразование "size_t" в "_Ty", возможна потеря данных
+D:\sample\Github_fag\Github_fag\matplotlibcpp.h(1813,57): warning C4244:         with
+D:\sample\Github_fag\Github_fag\matplotlibcpp.h(1813,57): warning C4244:         [
+D:\sample\Github_fag\Github_fag\matplotlibcpp.h(1813,57): warning C4244:             _Ty=double
+D:\sample\Github_fag\Github_fag\matplotlibcpp.h(1813,57): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+      D:\sample\Github_fag\Github_fag\matplotlibcpp.h(1813,57):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\sample\Github_fag\Github_fag\matplotlibcpp.h(2880,16):
+          выполняется компиляция ссылки на экземпляр шаблон функции "bool matplotlibcpp::plot<double>(const std::vector<double,std::allocator<double>> &,const std::string &)"
+  
+  Создание кода
+  Создание кода завершено
+  12 of 1046 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Github_fag.vcxproj -> D:\sample\Github_fag\x64\Release\Github_fag.exe

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Github_fag/Github_fag.vcxproj" Id="c95bd806-a818-416b-917b-4c73e89665a4" />
+</Solution>
